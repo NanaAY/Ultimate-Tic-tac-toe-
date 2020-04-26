@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: Apr 19, 2020
- *      Author: Solomon Segbefia
+ *      Author: Nana Osei Asiedu
  */
 
 #include <iostream>
